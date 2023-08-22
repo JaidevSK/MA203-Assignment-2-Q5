@@ -11,8 +11,7 @@ st.write(" Made By: Jaidev S. K.")
 
 import math
 import numpy as np
-import matplotlib.pyplot as plt
-
+from matplotlib import pyplot as plt
 
 Re = st.slider('#### Select the value of Re', 2500, 1000000, 15000)
 
