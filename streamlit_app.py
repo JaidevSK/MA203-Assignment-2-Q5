@@ -3,9 +3,9 @@
 Created on Mon Aug 21 18:25:05 2023
 @author: jaidev
 """
-
-python -m pip install -U pip
-python -m pip install -U matplotlib
+git clone https://github.com/matplotlib/matplotlib.git
+# python -m pip install -U pip
+# python -m pip install -U matplotlib
 
 import streamlit as st
 st.write("# von Karman Equation Application")
