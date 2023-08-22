@@ -4,7 +4,6 @@ Created on Mon Aug 21 18:25:05 2023
 @author: jaidev
 """
 
-conda install matplotlib
 import streamlit as st
 st.write("# von Karman Equation Application")
 st.write(" MA 203 Numerical Methods Assignment 2 Problem 5")
